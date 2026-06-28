@@ -409,6 +409,42 @@ def included_matches(matches: list[Match], start_date: date) -> tuple[list[Match
 
     return sorted(included, key=lambda m: (m.date, m.time, m.match_no)), audit
 
+def display_round(m: Match) -> str:
+    """
+    Short round/stage label for calendar event titles.
+    Examples:
+    - Group Match
+    - Round of 32
+    - Round of 16
+    - Quarter-final
+    - Semi-final
+    - Third Place
+    - Final
+    """
+    r = clean(m.round)
+    g = clean(m.group)
+    low = r.lower()
+
+    if "group" in low:
+        return "Group Match"
+    if "round of 32" in low or "r32" in low:
+        return "Round of 32"
+    if "round of 16" in low or "r16" in low:
+        return "Round of 16"
+    if "quarter" in low:
+        return "Quarter-final"
+    if "semi" in low:
+        return "Semi-final"
+    if "third" in low:
+        return "Third Place"
+    if low == "final" or " final" in low:
+        return "Final"
+    if r:
+        return r
+    if g:
+        return f"Group {g}"
+    return "Match"
+
 def event_duration(m: Match) -> timedelta:
     r = m.round.lower()
     if any(k in r for k in ["round of", "quarter", "semi", "final", "third"]):
@@ -459,7 +495,7 @@ def write_ics(matches: list[Match]) -> None:
         start_local = datetime.strptime(f"{m.date} {m.time}", "%Y-%m-%d %H:%M").replace(tzinfo=TZ)
         end_local = start_local + event_duration(m)
 
-        summary = f"FIFA M{m.match_no:02d} - {m.team_a} vs {m.team_b}"
+        summary = f"FIFA M{m.match_no:02d} - {display_round(m)} - {m.team_a} vs {m.team_b}"
         description = (
             f"{m.team_a} vs {m.team_b}\\n"
             f"Match No.: {m.match_no}\\n"
