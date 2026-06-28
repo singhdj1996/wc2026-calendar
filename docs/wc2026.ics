@@ -1,0 +1,29 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Damanjit Singh//WC2026 Dynamic Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FIFA World Cup 2026 - ARD/ZDF
+BEGIN:VEVENT
+UID:wc2026-m1-ca95ffa9@wc2026-calendar
+DTSTAMP:20260628T113949Z
+DTSTART:20260611T190000Z
+DTEND:20260611T210000Z
+SUMMARY:FIFA M01 - Mexico vs South Africa
+DESCRIPTION:Mexico vs South Africa\\nMatch No.: 1\\nRound: Group Stage\\nGr
+ oup: A\\nStream: ZDF\\nGermany kickoff: 11.06.2026 21:00\\nSource: https:/
+ /www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixt
+ ures
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-m3-baea8082@wc2026-calendar
+DTSTAMP:20260628T113949Z
+DTSTART:20260612T190000Z
+DTEND:20260612T210000Z
+SUMMARY:FIFA M03 - Spain vs Cape Verde
+DESCRIPTION:Spain vs Cape Verde\\nMatch No.: 3\\nRound: Group Stage\\nGroup
+ : C\\nStream: ARD\\nGermany kickoff: 12.06.2026 21:00\\nSource: https://ww
+ w.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixture
+ s
+END:VEVENT
+END:VCALENDAR

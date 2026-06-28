@@ -1,0 +1,4 @@
+match_no,date,time,round,group,team_a,team_b,stream,source_url,notes
+1,2026-06-11,21:00,Group Stage,A,Mexico,South Africa,ZDF,https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures,Sample/fallback row
+2,2026-06-12,03:00,Group Stage,B,Canada,Qatar,MagentaTV only,https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures,Sample/fallback row
+3,2026-06-12,21:00,Group Stage,C,Spain,Cape Verde,ARD,https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures,Sample/fallback row
