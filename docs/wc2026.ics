@@ -1,0 +1,470 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Damanjit Singh//WC2026 Robust Planning Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FIFA World Cup 2026 - ARD/ZDF Planning
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VEVENT
+UID:wc2026-match-69@singhdj1996.github.io
+DTSTAMP:20260628T122818Z
+DTSTART:20260627T233000Z
+DTEND:20260628T013000Z
+SUMMARY:FIFA Group - Colombia vs Portugal - ZDF
+DESCRIPTION:Match No.: 69\\nStage: Group\\nTeams: Colombia vs Portugal\\nRa
+ w teams/source slot: Colombia vs Portugal\\nBroadcaster: ZDF\\nRaw broadca
+ ster value: ZDF\\nKickoff Germany: 28.06.2026 01:30\\nSource: https://www.
+ sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cf
+ ifawm-spielplan-100.html\\nNotes: Fallback slot. Original row no 69\; orig
+ inal stream ZDF Mediathek + MagentaTV
+LAST-MODIFIED:20260628T122818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-71@singhdj1996.github.io
+DTSTAMP:20260628T122818Z
+DTSTART:20260628T020000Z
+DTEND:20260628T040000Z
+SUMMARY:FIFA Group - Algeria vs Austria - ZDF
+DESCRIPTION:Match No.: 71\\nStage: Group\\nTeams: Algeria vs Austria\\nRaw 
+ teams/source slot: Algeria vs Austria\\nBroadcaster: ZDF\\nRaw broadcaster
+  value: ZDF\\nKickoff Germany: 28.06.2026 04:00\\nSource: https://www.spor
+ tschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifaw
+ m-spielplan-100.html\\nNotes: Fallback slot. Original row no 71\; original
+  stream ZDF Mediathek + MagentaTV
+LAST-MODIFIED:20260628T122818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-73@singhdj1996.github.io
+DTSTAMP:20260628T122818Z
+DTSTART:20260628T190000Z
+DTEND:20260628T220000Z
+SUMMARY:FIFA R32 - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 73\\nStage: R32\\nTeams: TBD vs TBD\\nRaw teams/sour
+ ce slot: 2nd Group A vs 2nd Group B\\nBroadcaster: TBD\\nRaw broadcaster v
+ alue: ARD/ZDF TBC\\nKickoff Germany: 28.06.2026 21:00\\nSource: https://ww
+ w.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2
+ Cfifawm-spielplan-100.html\\nNotes: Fallback slot. Original row no 73\; or
+ iginal stream MagentaTV (+ ARD/ZDF TBC)
+LAST-MODIFIED:20260628T122818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-76@singhdj1996.github.io
+DTSTAMP:20260628T122818Z
+DTSTART:20260629T170000Z
+DTEND:20260629T200000Z
+SUMMARY:FIFA R32 - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 76\\nStage: R32\\nTeams: TBD vs TBD\\nRaw teams/sour
+ ce slot: 1st Group C vs 2nd Group F\\nBroadcaster: TBD\\nRaw broadcaster v
+ alue: ARD/ZDF TBC\\nKickoff Germany: 29.06.2026 19:00\\nSource: https://ww
+ w.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2
+ Cfifawm-spielplan-100.html\\nNotes: Fallback slot. Original row no 74\; or
+ iginal stream MagentaTV (+ ARD/ZDF TBC)
+LAST-MODIFIED:20260628T122818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-74@singhdj1996.github.io
+DTSTAMP:20260628T122818Z
+DTSTART:20260629T203000Z
+DTEND:20260629T233000Z
+SUMMARY:FIFA R32 - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 74\\nStage: R32\\nTeams: TBD vs TBD\\nRaw teams/sour
+ ce slot: 1st Group E vs 3rd Group A/B/C/D/F\\nBroadcaster: TBD\\nRaw broad
+ caster value: ARD/ZDF TBC\\nKickoff Germany: 29.06.2026 22:30\\nSource: ht
+ tps://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-w
+ m-2026%2Cfifawm-spielplan-100.html\\nNotes: Fallback slot. Original row no
+  75\; original stream MagentaTV (+ ARD/ZDF TBC)
+LAST-MODIFIED:20260628T122818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-75@singhdj1996.github.io
+DTSTAMP:20260628T122818Z
+DTSTART:20260630T010000Z
+DTEND:20260630T040000Z
+SUMMARY:FIFA R32 - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 75\\nStage: R32\\nTeams: TBD vs TBD\\nRaw teams/sour
+ ce slot: 1st Group F vs 2nd Group C\\nBroadcaster: TBD\\nRaw broadcaster v
+ alue: ARD/ZDF TBC\\nKickoff Germany: 30.06.2026 03:00\\nSource: https://ww
+ w.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2
+ Cfifawm-spielplan-100.html\\nNotes: Fallback slot. Original row no 76\; or
+ iginal stream MagentaTV (+ ARD/ZDF TBC)
+LAST-MODIFIED:20260628T122818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-78@singhdj1996.github.io
+DTSTAMP:20260628T122818Z
+DTSTART:20260630T170000Z
+DTEND:20260630T200000Z
+SUMMARY:FIFA R32 - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 78\\nStage: R32\\nTeams: TBD vs TBD\\nRaw teams/sour
+ ce slot: 2nd Group E vs 2nd Group I\\nBroadcaster: TBD\\nRaw broadcaster v
+ alue: ARD/ZDF TBC\\nKickoff Germany: 30.06.2026 19:00\\nSource: https://ww
+ w.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2
+ Cfifawm-spielplan-100.html\\nNotes: Fallback slot. Original row no 77\; or
+ iginal stream MagentaTV (+ ARD/ZDF TBC)
+LAST-MODIFIED:20260628T122818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-77@singhdj1996.github.io
+DTSTAMP:20260628T122818Z
+DTSTART:20260630T210000Z
+DTEND:20260701T000000Z
+SUMMARY:FIFA R32 - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 77\\nStage: R32\\nTeams: TBD vs TBD\\nRaw teams/sour
+ ce slot: 1st Group I vs 3rd Group C/D/F/G/H\\nBroadcaster: TBD\\nRaw broad
+ caster value: ARD/ZDF TBC\\nKickoff Germany: 30.06.2026 23:00\\nSource: ht
+ tps://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-w
+ m-2026%2Cfifawm-spielplan-100.html\\nNotes: Fallback slot. Original row no
+  78\; original stream MagentaTV (+ ARD/ZDF TBC)
+LAST-MODIFIED:20260628T122818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-79@singhdj1996.github.io
+DTSTAMP:20260628T122818Z
+DTSTART:20260701T010000Z
+DTEND:20260701T040000Z
+SUMMARY:FIFA R32 - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 79\\nStage: R32\\nTeams: TBD vs TBD\\nRaw teams/sour
+ ce slot: 1st Group A vs 3rd Group C/E/F/H/I\\nBroadcaster: TBD\\nRaw broad
+ caster value: ARD/ZDF TBC\\nKickoff Germany: 01.07.2026 03:00\\nSource: ht
+ tps://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-w
+ m-2026%2Cfifawm-spielplan-100.html\\nNotes: Fallback slot. Original row no
+  79\; original stream MagentaTV (+ ARD/ZDF TBC)
+LAST-MODIFIED:20260628T122818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-80@singhdj1996.github.io
+DTSTAMP:20260628T122818Z
+DTSTART:20260701T160000Z
+DTEND:20260701T190000Z
+SUMMARY:FIFA R32 - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 80\\nStage: R32\\nTeams: TBD vs TBD\\nRaw teams/sour
+ ce slot: 1st Group L vs 3rd Group E/H/I/J/K\\nBroadcaster: TBD\\nRaw broad
+ caster value: ARD/ZDF TBC\\nKickoff Germany: 01.07.2026 18:00\\nSource: ht
+ tps://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-w
+ m-2026%2Cfifawm-spielplan-100.html\\nNotes: Fallback slot. Original row no
+  80\; original stream MagentaTV (+ ARD/ZDF TBC)
+LAST-MODIFIED:20260628T122818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-82@singhdj1996.github.io
+DTSTAMP:20260628T122818Z
+DTSTART:20260701T200000Z
+DTEND:20260701T230000Z
+SUMMARY:FIFA R32 - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 82\\nStage: R32\\nTeams: TBD vs TBD\\nRaw teams/sour
+ ce slot: 1st Group G vs 3rd Group A/E/H/I/J\\nBroadcaster: TBD\\nRaw broad
+ caster value: ARD/ZDF TBC\\nKickoff Germany: 01.07.2026 22:00\\nSource: ht
+ tps://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-w
+ m-2026%2Cfifawm-spielplan-100.html\\nNotes: Fallback slot. Original row no
+  81\; original stream MagentaTV (+ ARD/ZDF TBC)
+LAST-MODIFIED:20260628T122818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-81@singhdj1996.github.io
+DTSTAMP:20260628T122818Z
+DTSTART:20260702T000000Z
+DTEND:20260702T030000Z
+SUMMARY:FIFA R32 - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 81\\nStage: R32\\nTeams: TBD vs TBD\\nRaw teams/sour
+ ce slot: 1st Group D vs 3rd Group B/E/F/I/J\\nBroadcaster: TBD\\nRaw broad
+ caster value: ARD/ZDF TBC\\nKickoff Germany: 02.07.2026 02:00\\nSource: ht
+ tps://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-w
+ m-2026%2Cfifawm-spielplan-100.html\\nNotes: Fallback slot. Original row no
+  82\; original stream MagentaTV (+ ARD/ZDF TBC)
+LAST-MODIFIED:20260628T122818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-84@singhdj1996.github.io
+DTSTAMP:20260628T122818Z
+DTSTART:20260702T190000Z
+DTEND:20260702T220000Z
+SUMMARY:FIFA R32 - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 84\\nStage: R32\\nTeams: TBD vs TBD\\nRaw teams/sour
+ ce slot: 1st Group H vs 2nd Group J\\nBroadcaster: TBD\\nRaw broadcaster v
+ alue: ARD/ZDF TBC\\nKickoff Germany: 02.07.2026 21:00\\nSource: https://ww
+ w.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2
+ Cfifawm-spielplan-100.html\\nNotes: Fallback slot. Original row no 83\; or
+ iginal stream MagentaTV (+ ARD/ZDF TBC)
+LAST-MODIFIED:20260628T122818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-83@singhdj1996.github.io
+DTSTAMP:20260628T122818Z
+DTSTART:20260702T230000Z
+DTEND:20260703T020000Z
+SUMMARY:FIFA R32 - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 83\\nStage: R32\\nTeams: TBD vs TBD\\nRaw teams/sour
+ ce slot: 2nd Group K vs 2nd Group L\\nBroadcaster: TBD\\nRaw broadcaster v
+ alue: ARD/ZDF TBC\\nKickoff Germany: 03.07.2026 01:00\\nSource: https://ww
+ w.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2
+ Cfifawm-spielplan-100.html\\nNotes: Fallback slot. Original row no 84\; or
+ iginal stream MagentaTV (+ ARD/ZDF TBC)
+LAST-MODIFIED:20260628T122818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-85@singhdj1996.github.io
+DTSTAMP:20260628T122818Z
+DTSTART:20260703T030000Z
+DTEND:20260703T060000Z
+SUMMARY:FIFA R32 - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 85\\nStage: R32\\nTeams: TBD vs TBD\\nRaw teams/sour
+ ce slot: 1st Group B vs 3rd Group E/F/G/I/J\\nBroadcaster: TBD\\nRaw broad
+ caster value: ARD/ZDF TBC\\nKickoff Germany: 03.07.2026 05:00\\nSource: ht
+ tps://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-w
+ m-2026%2Cfifawm-spielplan-100.html\\nNotes: Fallback slot. Original row no
+  85\; original stream MagentaTV (+ ARD/ZDF TBC)
+LAST-MODIFIED:20260628T122818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-88@singhdj1996.github.io
+DTSTAMP:20260628T122818Z
+DTSTART:20260703T180000Z
+DTEND:20260703T210000Z
+SUMMARY:FIFA R32 - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 88\\nStage: R32\\nTeams: TBD vs TBD\\nRaw teams/sour
+ ce slot: 2nd Group D vs 2nd Group G\\nBroadcaster: TBD\\nRaw broadcaster v
+ alue: ARD/ZDF TBC\\nKickoff Germany: 03.07.2026 20:00\\nSource: https://ww
+ w.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2
+ Cfifawm-spielplan-100.html\\nNotes: Fallback slot. Original row no 86\; or
+ iginal stream MagentaTV (+ ARD/ZDF TBC)
+LAST-MODIFIED:20260628T122818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-86@singhdj1996.github.io
+DTSTAMP:20260628T122818Z
+DTSTART:20260703T220000Z
+DTEND:20260704T010000Z
+SUMMARY:FIFA R32 - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 86\\nStage: R32\\nTeams: TBD vs TBD\\nRaw teams/sour
+ ce slot: 1st Group J vs 2nd Group H\\nBroadcaster: TBD\\nRaw broadcaster v
+ alue: ARD/ZDF TBC\\nKickoff Germany: 04.07.2026 00:00\\nSource: https://ww
+ w.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2
+ Cfifawm-spielplan-100.html\\nNotes: Fallback slot. Original row no 87\; or
+ iginal stream MagentaTV (+ ARD/ZDF TBC)
+LAST-MODIFIED:20260628T122818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-87@singhdj1996.github.io
+DTSTAMP:20260628T122818Z
+DTSTART:20260704T013000Z
+DTEND:20260704T043000Z
+SUMMARY:FIFA R32 - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 87\\nStage: R32\\nTeams: TBD vs TBD\\nRaw teams/sour
+ ce slot: 1st Group K vs 3rd Group D/E/I/J/L\\nBroadcaster: TBD\\nRaw broad
+ caster value: ARD/ZDF TBC\\nKickoff Germany: 04.07.2026 03:30\\nSource: ht
+ tps://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-w
+ m-2026%2Cfifawm-spielplan-100.html\\nNotes: Fallback slot. Original row no
+  88\; original stream MagentaTV (+ ARD/ZDF TBC)
+LAST-MODIFIED:20260628T122818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-90@singhdj1996.github.io
+DTSTAMP:20260628T122818Z
+DTSTART:20260704T170000Z
+DTEND:20260704T200000Z
+SUMMARY:FIFA R16 - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 90\\nStage: R16\\nTeams: TBD vs TBD\\nRaw teams/sour
+ ce slot: Winner Match 73 vs Winner Match 75\\nBroadcaster: TBD\\nRaw broad
+ caster value: ARD/ZDF TBC\\nKickoff Germany: 04.07.2026 19:00\\nSource: ht
+ tps://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-w
+ m-2026%2Cfifawm-spielplan-100.html\\nNotes: Fallback slot. Original row no
+  89\; original stream MagentaTV (+ ARD/ZDF TBC)
+LAST-MODIFIED:20260628T122818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-89@singhdj1996.github.io
+DTSTAMP:20260628T122818Z
+DTSTART:20260704T210000Z
+DTEND:20260705T000000Z
+SUMMARY:FIFA R16 - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 89\\nStage: R16\\nTeams: TBD vs TBD\\nRaw teams/sour
+ ce slot: Winner Match 74 vs Winner Match 77\\nBroadcaster: TBD\\nRaw broad
+ caster value: ARD/ZDF TBC\\nKickoff Germany: 04.07.2026 23:00\\nSource: ht
+ tps://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-w
+ m-2026%2Cfifawm-spielplan-100.html\\nNotes: Fallback slot. Original row no
+  90\; original stream MagentaTV (+ ARD/ZDF TBC)
+LAST-MODIFIED:20260628T122818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-91@singhdj1996.github.io
+DTSTAMP:20260628T122818Z
+DTSTART:20260705T200000Z
+DTEND:20260705T230000Z
+SUMMARY:FIFA R16 - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 91\\nStage: R16\\nTeams: TBD vs TBD\\nRaw teams/sour
+ ce slot: Winner Match 76 vs Winner Match 78\\nBroadcaster: TBD\\nRaw broad
+ caster value: ARD/ZDF TBC\\nKickoff Germany: 05.07.2026 22:00\\nSource: ht
+ tps://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-w
+ m-2026%2Cfifawm-spielplan-100.html\\nNotes: Fallback slot. Original row no
+  91\; original stream MagentaTV (+ ARD/ZDF TBC)
+LAST-MODIFIED:20260628T122818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-92@singhdj1996.github.io
+DTSTAMP:20260628T122818Z
+DTSTART:20260706T000000Z
+DTEND:20260706T030000Z
+SUMMARY:FIFA R16 - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 92\\nStage: R16\\nTeams: TBD vs TBD\\nRaw teams/sour
+ ce slot: Winner Match 79 vs Winner Match 80\\nBroadcaster: TBD\\nRaw broad
+ caster value: ARD/ZDF TBC\\nKickoff Germany: 06.07.2026 02:00\\nSource: ht
+ tps://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-w
+ m-2026%2Cfifawm-spielplan-100.html\\nNotes: Fallback slot. Original row no
+  92\; original stream MagentaTV (+ ARD/ZDF TBC)
+LAST-MODIFIED:20260628T122818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-93@singhdj1996.github.io
+DTSTAMP:20260628T122818Z
+DTSTART:20260706T190000Z
+DTEND:20260706T220000Z
+SUMMARY:FIFA R16 - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 93\\nStage: R16\\nTeams: TBD vs TBD\\nRaw teams/sour
+ ce slot: Winner Match 83 vs Winner Match 84\\nBroadcaster: TBD\\nRaw broad
+ caster value: ARD/ZDF TBC\\nKickoff Germany: 06.07.2026 21:00\\nSource: ht
+ tps://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-w
+ m-2026%2Cfifawm-spielplan-100.html\\nNotes: Fallback slot. Original row no
+  93\; original stream MagentaTV (+ ARD/ZDF TBC)
+LAST-MODIFIED:20260628T122818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-94@singhdj1996.github.io
+DTSTAMP:20260628T122818Z
+DTSTART:20260707T000000Z
+DTEND:20260707T030000Z
+SUMMARY:FIFA R16 - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 94\\nStage: R16\\nTeams: TBD vs TBD\\nRaw teams/sour
+ ce slot: Winner Match 81 vs Winner Match 82\\nBroadcaster: TBD\\nRaw broad
+ caster value: ARD/ZDF TBC\\nKickoff Germany: 07.07.2026 02:00\\nSource: ht
+ tps://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-w
+ m-2026%2Cfifawm-spielplan-100.html\\nNotes: Fallback slot. Original row no
+  94\; original stream MagentaTV (+ ARD/ZDF TBC)
+LAST-MODIFIED:20260628T122818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-95@singhdj1996.github.io
+DTSTAMP:20260628T122818Z
+DTSTART:20260707T160000Z
+DTEND:20260707T190000Z
+SUMMARY:FIFA R16 - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 95\\nStage: R16\\nTeams: TBD vs TBD\\nRaw teams/sour
+ ce slot: Winner Match 86 vs Winner Match 88\\nBroadcaster: TBD\\nRaw broad
+ caster value: ARD/ZDF TBC\\nKickoff Germany: 07.07.2026 18:00\\nSource: ht
+ tps://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-w
+ m-2026%2Cfifawm-spielplan-100.html\\nNotes: Fallback slot. Original row no
+  95\; original stream MagentaTV (+ ARD/ZDF TBC)
+LAST-MODIFIED:20260628T122818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-96@singhdj1996.github.io
+DTSTAMP:20260628T122818Z
+DTSTART:20260707T200000Z
+DTEND:20260707T230000Z
+SUMMARY:FIFA R16 - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 96\\nStage: R16\\nTeams: TBD vs TBD\\nRaw teams/sour
+ ce slot: Winner Match 85 vs Winner Match 87\\nBroadcaster: TBD\\nRaw broad
+ caster value: ARD/ZDF TBC\\nKickoff Germany: 07.07.2026 22:00\\nSource: ht
+ tps://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-w
+ m-2026%2Cfifawm-spielplan-100.html\\nNotes: Fallback slot. Original row no
+  96\; original stream MagentaTV (+ ARD/ZDF TBC)
+LAST-MODIFIED:20260628T122818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-97@singhdj1996.github.io
+DTSTAMP:20260628T122818Z
+DTSTART:20260709T200000Z
+DTEND:20260709T230000Z
+SUMMARY:FIFA QF - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 97\\nStage: QF\\nTeams: TBD vs TBD\\nRaw teams/sourc
+ e slot: Winner Match 89 vs Winner Match 90\\nBroadcaster: TBD\\nRaw broadc
+ aster value: ARD/ZDF TBC\\nKickoff Germany: 09.07.2026 22:00\\nSource: htt
+ ps://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm
+ -2026%2Cfifawm-spielplan-100.html\\nNotes: Fallback slot. Original row no 
+ 97\; original stream MagentaTV (+ ARD/ZDF TBC)
+LAST-MODIFIED:20260628T122818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-98@singhdj1996.github.io
+DTSTAMP:20260628T122818Z
+DTSTART:20260710T190000Z
+DTEND:20260710T220000Z
+SUMMARY:FIFA QF - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 98\\nStage: QF\\nTeams: TBD vs TBD\\nRaw teams/sourc
+ e slot: Winner Match 93 vs Winner Match 94\\nBroadcaster: TBD\\nRaw broadc
+ aster value: ARD/ZDF TBC\\nKickoff Germany: 10.07.2026 21:00\\nSource: htt
+ ps://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm
+ -2026%2Cfifawm-spielplan-100.html\\nNotes: Fallback slot. Original row no 
+ 98\; original stream MagentaTV (+ ARD/ZDF TBC)
+LAST-MODIFIED:20260628T122818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-99@singhdj1996.github.io
+DTSTAMP:20260628T122818Z
+DTSTART:20260711T210000Z
+DTEND:20260712T000000Z
+SUMMARY:FIFA QF - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 99\\nStage: QF\\nTeams: TBD vs TBD\\nRaw teams/sourc
+ e slot: Winner Match 91 vs Winner Match 92\\nBroadcaster: TBD\\nRaw broadc
+ aster value: ARD/ZDF TBC\\nKickoff Germany: 11.07.2026 23:00\\nSource: htt
+ ps://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm
+ -2026%2Cfifawm-spielplan-100.html\\nNotes: Fallback slot. Original row no 
+ 99\; original stream MagentaTV (+ ARD/ZDF TBC)
+LAST-MODIFIED:20260628T122818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-100@singhdj1996.github.io
+DTSTAMP:20260628T122818Z
+DTSTART:20260712T010000Z
+DTEND:20260712T040000Z
+SUMMARY:FIFA QF - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 100\\nStage: QF\\nTeams: TBD vs TBD\\nRaw teams/sour
+ ce slot: Winner Match 95 vs Winner Match 96\\nBroadcaster: TBD\\nRaw broad
+ caster value: ARD/ZDF TBC\\nKickoff Germany: 12.07.2026 03:00\\nSource: ht
+ tps://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-w
+ m-2026%2Cfifawm-spielplan-100.html\\nNotes: Fallback slot. Original row no
+  100\; original stream MagentaTV (+ ARD/ZDF TBC)
+LAST-MODIFIED:20260628T122818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-101@singhdj1996.github.io
+DTSTAMP:20260628T122818Z
+DTSTART:20260714T190000Z
+DTEND:20260714T220000Z
+SUMMARY:FIFA SF - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 101\\nStage: SF\\nTeams: TBD vs TBD\\nRaw teams/sour
+ ce slot: Winner Match 97 vs Winner Match 98\\nBroadcaster: TBD\\nRaw broad
+ caster value: ARD/ZDF TBC\\nKickoff Germany: 14.07.2026 21:00\\nSource: ht
+ tps://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-w
+ m-2026%2Cfifawm-spielplan-100.html\\nNotes: Fallback slot. Original row no
+  101\; original stream ARD/ZDF TBC + MagentaTV
+LAST-MODIFIED:20260628T122818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-102@singhdj1996.github.io
+DTSTAMP:20260628T122818Z
+DTSTART:20260715T190000Z
+DTEND:20260715T220000Z
+SUMMARY:FIFA SF - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 102\\nStage: SF\\nTeams: TBD vs TBD\\nRaw teams/sour
+ ce slot: Winner Match 99 vs Winner Match 100\\nBroadcaster: TBD\\nRaw broa
+ dcaster value: ARD/ZDF TBC\\nKickoff Germany: 15.07.2026 21:00\\nSource: h
+ ttps://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-
+ wm-2026%2Cfifawm-spielplan-100.html\\nNotes: Fallback slot. Original row n
+ o 102\; original stream ARD/ZDF TBC + MagentaTV
+LAST-MODIFIED:20260628T122818Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-104@singhdj1996.github.io
+DTSTAMP:20260628T122818Z
+DTSTART:20260719T190000Z
+DTEND:20260719T220000Z
+SUMMARY:FIFA Finals - TBD vs TBD - ZDF
+DESCRIPTION:Match No.: 104\\nStage: Finals\\nTeams: TBD vs TBD\\nRaw teams/
+ source slot: Winner Match 101 vs Winner Match 102\\nBroadcaster: ZDF\\nRaw
+  broadcaster value: ZDF\\nKickoff Germany: 19.07.2026 21:00\\nSource: http
+ s://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-
+ 2026%2Cfifawm-spielplan-100.html\\nNotes: Fallback slot. Original row no 1
+ 04\; original stream ZDF Mediathek + MagentaTV
+LAST-MODIFIED:20260628T122818Z
+END:VEVENT
+END:VCALENDAR
