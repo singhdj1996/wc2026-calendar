@@ -1,0 +1,428 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Damanjit Singh//WC2026 Robust Planning Calendar V2//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:FIFA World Cup 2026 - ARD/ZDF Planning
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VEVENT
+UID:wc2026-match-69@wc2026-calendar
+DTSTAMP:20260628T124153Z
+DTSTART:20260627T233000Z
+DTEND:20260628T013000Z
+SUMMARY:FIFA Group - Colombia vs Portugal - ZDF
+DESCRIPTION:Match No.: 69\\nStage: Group\\nTeams: Colombia vs Portugal\\nRa
+ w slot: Colombia vs Portugal\\nBroadcaster shown: ZDF\\nRaw broadcaster: Z
+ DF\\nKickoff Germany: 28.06.2026 01:30\\nSource: https://www.sportschau.de
+ /fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spielpl
+ an-100.html\\nNotes: Fallback slot. Original workbook row no 69\; original
+  stream ZDF Mediathek + MagentaTV
+LAST-MODIFIED:20260628T124153Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-71@wc2026-calendar
+DTSTAMP:20260628T124153Z
+DTSTART:20260628T020000Z
+DTEND:20260628T040000Z
+SUMMARY:FIFA Group - Algeria vs Austria - ZDF
+DESCRIPTION:Match No.: 71\\nStage: Group\\nTeams: Algeria vs Austria\\nRaw 
+ slot: Algeria vs Austria\\nBroadcaster shown: ZDF\\nRaw broadcaster: ZDF\\
+ nKickoff Germany: 28.06.2026 04:00\\nSource: https://www.sportschau.de/fus
+ sball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spielplan-1
+ 00.html\\nNotes: Fallback slot. Original workbook row no 71\; original str
+ eam ZDF Mediathek + MagentaTV
+LAST-MODIFIED:20260628T124153Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-73@wc2026-calendar
+DTSTAMP:20260628T124153Z
+DTSTART:20260628T190000Z
+DTEND:20260628T220000Z
+SUMMARY:FIFA R32 - South Africa vs Canada - ARD
+DESCRIPTION:Match No.: 73\\nStage: R32\\nTeams: South Africa vs Canada\\nRa
+ w slot: South Africa vs Canada\\nBroadcaster shown: ARD\\nRaw broadcaster:
+  ARD\\nKickoff Germany: 28.06.2026 21:00\\nSource: https://www.sportschau.
+ de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spiel
+ plan-100.html\\nNotes: Seeded from current Sportschau schedule table
+LAST-MODIFIED:20260628T124153Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-76@wc2026-calendar
+DTSTAMP:20260628T124153Z
+DTSTART:20260629T170000Z
+DTEND:20260629T200000Z
+SUMMARY:FIFA R32 - Brazil vs Japan - ZDF
+DESCRIPTION:Match No.: 76\\nStage: R32\\nTeams: Brazil vs Japan\\nRaw slot:
+  Brazil vs Japan\\nBroadcaster shown: ZDF\\nRaw broadcaster: ZDF\\nKickoff
+  Germany: 29.06.2026 19:00\\nSource: https://www.sportschau.de/fussball/fi
+ fa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spielplan-100.html\
+ \nNotes: Seeded from current Sportschau schedule table
+LAST-MODIFIED:20260628T124153Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-74@wc2026-calendar
+DTSTAMP:20260628T124153Z
+DTSTART:20260629T203000Z
+DTEND:20260629T233000Z
+SUMMARY:FIFA R32 - Germany vs Paraguay - ZDF
+DESCRIPTION:Match No.: 74\\nStage: R32\\nTeams: Germany vs Paraguay\\nRaw s
+ lot: Germany vs Paraguay\\nBroadcaster shown: ZDF\\nRaw broadcaster: ZDF\\
+ nKickoff Germany: 29.06.2026 22:30\\nSource: https://www.sportschau.de/fus
+ sball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spielplan-1
+ 00.html\\nNotes: Seeded from current Sportschau schedule table
+LAST-MODIFIED:20260628T124153Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-78@wc2026-calendar
+DTSTAMP:20260628T124153Z
+DTSTART:20260630T170000Z
+DTEND:20260630T200000Z
+SUMMARY:FIFA R32 - Ivory Coast vs Norway - ARD
+DESCRIPTION:Match No.: 78\\nStage: R32\\nTeams: Ivory Coast vs Norway\\nRaw
+  slot: Ivory Coast vs Norway\\nBroadcaster shown: ARD\\nRaw broadcaster: A
+ RD\\nKickoff Germany: 30.06.2026 19:00\\nSource: https://www.sportschau.de
+ /fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spielpl
+ an-100.html\\nNotes: Seeded from current Sportschau schedule table
+LAST-MODIFIED:20260628T124153Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-77@wc2026-calendar
+DTSTAMP:20260628T124153Z
+DTSTART:20260630T210000Z
+DTEND:20260701T000000Z
+SUMMARY:FIFA R32 - France vs Sweden - TBD
+DESCRIPTION:Match No.: 77\\nStage: R32\\nTeams: France vs Sweden\\nRaw slot
+ : France vs Sweden\\nBroadcaster shown: TBD\\nRaw broadcaster: ZDF/Magenta
+  TBC\\nKickoff Germany: 30.06.2026 23:00\\nSource: https://www.sportschau.
+ de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spiel
+ plan-100.html\\nNotes: Seeded from current Sportschau schedule table
+LAST-MODIFIED:20260628T124153Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-79@wc2026-calendar
+DTSTAMP:20260628T124153Z
+DTSTART:20260701T010000Z
+DTEND:20260701T040000Z
+SUMMARY:FIFA R32 - Mexico vs Ecuador - TBD
+DESCRIPTION:Match No.: 79\\nStage: R32\\nTeams: Mexico vs Ecuador\\nRaw slo
+ t: Mexico vs Ecuador\\nBroadcaster shown: TBD\\nRaw broadcaster: ZDF/Magen
+ ta TBC\\nKickoff Germany: 01.07.2026 03:00\\nSource: https://www.sportscha
+ u.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spi
+ elplan-100.html\\nNotes: Seeded from current Sportschau schedule table
+LAST-MODIFIED:20260628T124153Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-80@wc2026-calendar
+DTSTAMP:20260628T124153Z
+DTSTART:20260701T160000Z
+DTEND:20260701T190000Z
+SUMMARY:FIFA R32 - England vs DR Congo - ARD
+DESCRIPTION:Match No.: 80\\nStage: R32\\nTeams: England vs DR Congo\\nRaw s
+ lot: England vs DR Congo\\nBroadcaster shown: ARD\\nRaw broadcaster: ARD\\
+ nKickoff Germany: 01.07.2026 18:00\\nSource: https://www.sportschau.de/fus
+ sball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spielplan-1
+ 00.html\\nNotes: Seeded from current Sportschau schedule table
+LAST-MODIFIED:20260628T124153Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-82@wc2026-calendar
+DTSTAMP:20260628T124153Z
+DTSTART:20260701T200000Z
+DTEND:20260701T230000Z
+SUMMARY:FIFA R32 - Belgium vs Senegal - ARD
+DESCRIPTION:Match No.: 82\\nStage: R32\\nTeams: Belgium vs Senegal\\nRaw sl
+ ot: Belgium vs Senegal\\nBroadcaster shown: ARD\\nRaw broadcaster: ARD\\nK
+ ickoff Germany: 01.07.2026 22:00\\nSource: https://www.sportschau.de/fussb
+ all/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spielplan-100
+ .html\\nNotes: Seeded from current Sportschau schedule table
+LAST-MODIFIED:20260628T124153Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-84@wc2026-calendar
+DTSTAMP:20260628T124153Z
+DTSTART:20260702T190000Z
+DTEND:20260702T220000Z
+SUMMARY:FIFA R32 - Spain vs Austria - ARD
+DESCRIPTION:Match No.: 84\\nStage: R32\\nTeams: Spain vs Austria\\nRaw slot
+ : Spain vs Austria\\nBroadcaster shown: ARD\\nRaw broadcaster: ARD\\nKicko
+ ff Germany: 02.07.2026 21:00\\nSource: https://www.sportschau.de/fussball/
+ fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spielplan-100.htm
+ l\\nNotes: Seeded from current Sportschau schedule table
+LAST-MODIFIED:20260628T124153Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-83@wc2026-calendar
+DTSTAMP:20260628T124153Z
+DTSTART:20260702T230000Z
+DTEND:20260703T020000Z
+SUMMARY:FIFA R32 - Portugal vs Croatia - TBD
+DESCRIPTION:Match No.: 83\\nStage: R32\\nTeams: Portugal vs Croatia\\nRaw s
+ lot: Portugal vs Croatia\\nBroadcaster shown: TBD\\nRaw broadcaster: ZDF/M
+ agenta TBC\\nKickoff Germany: 03.07.2026 01:00\\nSource: https://www.sport
+ schau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm
+ -spielplan-100.html\\nNotes: Seeded from current Sportschau schedule table
+LAST-MODIFIED:20260628T124153Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-85@wc2026-calendar
+DTSTAMP:20260628T124153Z
+DTSTART:20260703T030000Z
+DTEND:20260703T060000Z
+SUMMARY:FIFA R32 - Switzerland vs Algeria - ZDF
+DESCRIPTION:Match No.: 85\\nStage: R32\\nTeams: Switzerland vs Algeria\\nRa
+ w slot: Switzerland vs Algeria\\nBroadcaster shown: ZDF\\nRaw broadcaster:
+  ZDF\\nKickoff Germany: 03.07.2026 05:00\\nSource: https://www.sportschau.
+ de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spiel
+ plan-100.html\\nNotes: Seeded from current Sportschau schedule table
+LAST-MODIFIED:20260628T124153Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-88@wc2026-calendar
+DTSTAMP:20260628T124153Z
+DTSTART:20260703T180000Z
+DTEND:20260703T210000Z
+SUMMARY:FIFA R32 - Australia vs Egypt - ZDF
+DESCRIPTION:Match No.: 88\\nStage: R32\\nTeams: Australia vs Egypt\\nRaw sl
+ ot: Australia vs Egypt\\nBroadcaster shown: ZDF\\nRaw broadcaster: ZDF\\nK
+ ickoff Germany: 03.07.2026 20:00\\nSource: https://www.sportschau.de/fussb
+ all/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spielplan-100
+ .html\\nNotes: Seeded from current Sportschau schedule table
+LAST-MODIFIED:20260628T124153Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-86@wc2026-calendar
+DTSTAMP:20260628T124153Z
+DTSTART:20260703T220000Z
+DTEND:20260704T010000Z
+SUMMARY:FIFA R32 - Argentina vs Cape Verde - TBD
+DESCRIPTION:Match No.: 86\\nStage: R32\\nTeams: Argentina vs Cape Verde\\nR
+ aw slot: Argentina vs Cape Verde\\nBroadcaster shown: TBD\\nRaw broadcaste
+ r: ZDF/Magenta TBC\\nKickoff Germany: 04.07.2026 00:00\\nSource: https://w
+ ww.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%
+ 2Cfifawm-spielplan-100.html\\nNotes: Seeded from current Sportschau schedu
+ le table
+LAST-MODIFIED:20260628T124153Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-87@wc2026-calendar
+DTSTAMP:20260628T124153Z
+DTSTART:20260704T013000Z
+DTEND:20260704T043000Z
+SUMMARY:FIFA R32 - Colombia vs Ghana - TBD
+DESCRIPTION:Match No.: 87\\nStage: R32\\nTeams: Colombia vs Ghana\\nRaw slo
+ t: Colombia vs Ghana\\nBroadcaster shown: TBD\\nRaw broadcaster: ZDF/Magen
+ ta TBC\\nKickoff Germany: 04.07.2026 03:30\\nSource: https://www.sportscha
+ u.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spi
+ elplan-100.html\\nNotes: Seeded from current Sportschau schedule table
+LAST-MODIFIED:20260628T124153Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-90@wc2026-calendar
+DTSTAMP:20260628T124153Z
+DTSTART:20260704T170000Z
+DTEND:20260704T200000Z
+SUMMARY:FIFA R16 - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 90\\nStage: R16\\nTeams: TBD vs TBD\\nRaw slot: Winn
+ er Match 73 vs Winner Match 75\\nBroadcaster shown: TBD\\nRaw broadcaster:
+  TBC\\nKickoff Germany: 04.07.2026 19:00\\nSource: https://www.sportschau.
+ de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spiel
+ plan-100.html\\nNotes: Seeded from current Sportschau schedule table
+LAST-MODIFIED:20260628T124153Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-89@wc2026-calendar
+DTSTAMP:20260628T124153Z
+DTSTART:20260704T210000Z
+DTEND:20260705T000000Z
+SUMMARY:FIFA R16 - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 89\\nStage: R16\\nTeams: TBD vs TBD\\nRaw slot: Winn
+ er Match 74 vs Winner Match 77\\nBroadcaster shown: TBD\\nRaw broadcaster:
+  TBC\\nKickoff Germany: 04.07.2026 23:00\\nSource: https://www.sportschau.
+ de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spiel
+ plan-100.html\\nNotes: Seeded from current Sportschau schedule table
+LAST-MODIFIED:20260628T124153Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-91@wc2026-calendar
+DTSTAMP:20260628T124153Z
+DTSTART:20260705T200000Z
+DTEND:20260705T230000Z
+SUMMARY:FIFA R16 - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 91\\nStage: R16\\nTeams: TBD vs TBD\\nRaw slot: Winn
+ er Match 76 vs Winner Match 78\\nBroadcaster shown: TBD\\nRaw broadcaster:
+  TBC\\nKickoff Germany: 05.07.2026 22:00\\nSource: https://www.sportschau.
+ de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spiel
+ plan-100.html\\nNotes: Seeded from current Sportschau schedule table
+LAST-MODIFIED:20260628T124153Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-92@wc2026-calendar
+DTSTAMP:20260628T124153Z
+DTSTART:20260706T000000Z
+DTEND:20260706T030000Z
+SUMMARY:FIFA R16 - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 92\\nStage: R16\\nTeams: TBD vs TBD\\nRaw slot: Winn
+ er Match 79 vs Winner Match 80\\nBroadcaster shown: TBD\\nRaw broadcaster:
+  TBC\\nKickoff Germany: 06.07.2026 02:00\\nSource: https://www.sportschau.
+ de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spiel
+ plan-100.html\\nNotes: Seeded from current Sportschau schedule table
+LAST-MODIFIED:20260628T124153Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-93@wc2026-calendar
+DTSTAMP:20260628T124153Z
+DTSTART:20260706T190000Z
+DTEND:20260706T220000Z
+SUMMARY:FIFA R16 - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 93\\nStage: R16\\nTeams: TBD vs TBD\\nRaw slot: Winn
+ er Match 83 vs Winner Match 84\\nBroadcaster shown: TBD\\nRaw broadcaster:
+  TBC\\nKickoff Germany: 06.07.2026 21:00\\nSource: https://www.sportschau.
+ de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spiel
+ plan-100.html\\nNotes: Seeded from current Sportschau schedule table
+LAST-MODIFIED:20260628T124153Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-94@wc2026-calendar
+DTSTAMP:20260628T124153Z
+DTSTART:20260707T000000Z
+DTEND:20260707T030000Z
+SUMMARY:FIFA R16 - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 94\\nStage: R16\\nTeams: TBD vs TBD\\nRaw slot: Winn
+ er Match 81 vs Winner Match 82\\nBroadcaster shown: TBD\\nRaw broadcaster:
+  TBC\\nKickoff Germany: 07.07.2026 02:00\\nSource: https://www.sportschau.
+ de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spiel
+ plan-100.html\\nNotes: Seeded from current Sportschau schedule table
+LAST-MODIFIED:20260628T124153Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-95@wc2026-calendar
+DTSTAMP:20260628T124153Z
+DTSTART:20260707T160000Z
+DTEND:20260707T190000Z
+SUMMARY:FIFA R16 - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 95\\nStage: R16\\nTeams: TBD vs TBD\\nRaw slot: Winn
+ er Match 86 vs Winner Match 88\\nBroadcaster shown: TBD\\nRaw broadcaster:
+  TBC\\nKickoff Germany: 07.07.2026 18:00\\nSource: https://www.sportschau.
+ de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spiel
+ plan-100.html\\nNotes: Seeded from current Sportschau schedule table
+LAST-MODIFIED:20260628T124153Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-96@wc2026-calendar
+DTSTAMP:20260628T124153Z
+DTSTART:20260707T200000Z
+DTEND:20260707T230000Z
+SUMMARY:FIFA R16 - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 96\\nStage: R16\\nTeams: TBD vs TBD\\nRaw slot: Winn
+ er Match 85 vs Winner Match 87\\nBroadcaster shown: TBD\\nRaw broadcaster:
+  TBC\\nKickoff Germany: 07.07.2026 22:00\\nSource: https://www.sportschau.
+ de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spiel
+ plan-100.html\\nNotes: Seeded from current Sportschau schedule table
+LAST-MODIFIED:20260628T124153Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-97@wc2026-calendar
+DTSTAMP:20260628T124153Z
+DTSTART:20260709T200000Z
+DTEND:20260709T230000Z
+SUMMARY:FIFA QF - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 97\\nStage: QF\\nTeams: TBD vs TBD\\nRaw slot: Winne
+ r Match 89 vs Winner Match 90\\nBroadcaster shown: TBD\\nRaw broadcaster: 
+ TBC\\nKickoff Germany: 09.07.2026 22:00\\nSource: https://www.sportschau.d
+ e/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spielp
+ lan-100.html\\nNotes: Seeded from current Sportschau schedule table
+LAST-MODIFIED:20260628T124153Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-98@wc2026-calendar
+DTSTAMP:20260628T124153Z
+DTSTART:20260710T190000Z
+DTEND:20260710T220000Z
+SUMMARY:FIFA QF - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 98\\nStage: QF\\nTeams: TBD vs TBD\\nRaw slot: Winne
+ r Match 93 vs Winner Match 94\\nBroadcaster shown: TBD\\nRaw broadcaster: 
+ TBC\\nKickoff Germany: 10.07.2026 21:00\\nSource: https://www.sportschau.d
+ e/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spielp
+ lan-100.html\\nNotes: Seeded from current Sportschau schedule table
+LAST-MODIFIED:20260628T124153Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-99@wc2026-calendar
+DTSTAMP:20260628T124153Z
+DTSTART:20260711T210000Z
+DTEND:20260712T000000Z
+SUMMARY:FIFA QF - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 99\\nStage: QF\\nTeams: TBD vs TBD\\nRaw slot: Winne
+ r Match 91 vs Winner Match 92\\nBroadcaster shown: TBD\\nRaw broadcaster: 
+ TBC\\nKickoff Germany: 11.07.2026 23:00\\nSource: https://www.sportschau.d
+ e/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spielp
+ lan-100.html\\nNotes: Seeded from current Sportschau schedule table
+LAST-MODIFIED:20260628T124153Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-100@wc2026-calendar
+DTSTAMP:20260628T124153Z
+DTSTART:20260712T010000Z
+DTEND:20260712T040000Z
+SUMMARY:FIFA QF - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 100\\nStage: QF\\nTeams: TBD vs TBD\\nRaw slot: Winn
+ er Match 95 vs Winner Match 96\\nBroadcaster shown: TBD\\nRaw broadcaster:
+  TBC\\nKickoff Germany: 12.07.2026 03:00\\nSource: https://www.sportschau.
+ de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spiel
+ plan-100.html\\nNotes: Seeded from current Sportschau schedule table
+LAST-MODIFIED:20260628T124153Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-101@wc2026-calendar
+DTSTAMP:20260628T124153Z
+DTSTART:20260714T190000Z
+DTEND:20260714T220000Z
+SUMMARY:FIFA SF - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 101\\nStage: SF\\nTeams: TBD vs TBD\\nRaw slot: Winn
+ er Match 97 vs Winner Match 98\\nBroadcaster shown: TBD\\nRaw broadcaster:
+  TBC\\nKickoff Germany: 14.07.2026 21:00\\nSource: https://www.sportschau.
+ de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spiel
+ plan-100.html\\nNotes: Seeded from current Sportschau schedule table
+LAST-MODIFIED:20260628T124153Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-102@wc2026-calendar
+DTSTAMP:20260628T124153Z
+DTSTART:20260715T190000Z
+DTEND:20260715T220000Z
+SUMMARY:FIFA SF - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 102\\nStage: SF\\nTeams: TBD vs TBD\\nRaw slot: Winn
+ er Match 99 vs Winner Match 100\\nBroadcaster shown: TBD\\nRaw broadcaster
+ : TBC\\nKickoff Germany: 15.07.2026 21:00\\nSource: https://www.sportschau
+ .de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spie
+ lplan-100.html\\nNotes: Seeded from current Sportschau schedule table
+LAST-MODIFIED:20260628T124153Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-103@wc2026-calendar
+DTSTAMP:20260628T124153Z
+DTSTART:20260718T210000Z
+DTEND:20260719T000000Z
+SUMMARY:FIFA 3rd Place - TBD vs TBD - TBD
+DESCRIPTION:Match No.: 103\\nStage: 3rd Place\\nTeams: TBD vs TBD\\nRaw slo
+ t: Loser Match 101 vs Loser Match 102\\nBroadcaster shown: TBD\\nRaw broad
+ caster: TBC\\nKickoff Germany: 18.07.2026 23:00\\nSource: https://www.spor
+ tschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifaw
+ m-spielplan-100.html\\nNotes: Seeded from current Sportschau schedule tabl
+ e
+LAST-MODIFIED:20260628T124153Z
+END:VEVENT
+BEGIN:VEVENT
+UID:wc2026-match-104@wc2026-calendar
+DTSTAMP:20260628T124153Z
+DTSTART:20260719T190000Z
+DTEND:20260719T220000Z
+SUMMARY:FIFA Finals - TBD vs TBD - ZDF
+DESCRIPTION:Match No.: 104\\nStage: Finals\\nTeams: TBD vs TBD\\nRaw slot: 
+ Winner Match 101 vs Winner Match 102\\nBroadcaster shown: ZDF\\nRaw broadc
+ aster: ZDF\\nKickoff Germany: 19.07.2026 21:00\\nSource: https://www.sport
+ schau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm
+ -spielplan-100.html\\nNotes: Seeded from current Sportschau schedule table
+LAST-MODIFIED:20260628T124153Z
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1404 @@
+{
+  "generated_at_utc": "2026-06-28T12:41:53.341131+00:00",
+  "calendar_name": "FIFA World Cup 2026 - ARD/ZDF Planning",
+  "start_date_europe_berlin": "2026-06-28",
+  "rules": {
+    "include_unknown_broadcaster_as_tbd": true,
+    "exclude_confirmed_magenta_only": true,
+    "stable_uid_per_match": true
+  },
+  "source_counts": {
+    "manual_fixtures": 104,
+    "sportschau_updates": 0,
+    "zdf_updates": 0
+  },
+  "included_count": 32,
+  "included_matches": [
+    {
+      "match_no": 69,
+      "date": "2026-06-28",
+      "time": "01:30",
+      "round": "Group stage – Matchday 3",
+      "group": "K",
+      "team_a": "Colombia",
+      "team_b": "Portugal",
+      "stream": "ZDF",
+      "source_url": "https://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spielplan-100.html",
+      "notes": "Fallback slot. Original workbook row no 69; original stream ZDF Mediathek + MagentaTV",
+      "include": "",
+      "calendar_title": "FIFA Group - Colombia vs Portugal - ZDF"
+    },
+    {
+      "match_no": 71,
+      "date": "2026-06-28",
+      "time": "04:00",
+      "round": "Group stage – Matchday 3",
+      "group": "J",
+      "team_a": "Algeria",
+      "team_b": "Austria",
+      "stream": "ZDF",
+      "source_url": "https://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spielplan-100.html",
+      "notes": "Fallback slot. Original workbook row no 71; original stream ZDF Mediathek + MagentaTV",
+      "include": "",
+      "calendar_title": "FIFA Group - Algeria vs Austria - ZDF"
+    },
+    {
+      "match_no": 73,
+      "date": "2026-06-28",
+      "time": "21:00",
+      "round": "Round of 32",
+      "group": "",
+      "team_a": "South Africa",
+      "team_b": "Canada",
+      "stream": "ARD",
+      "source_url": "https://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spielplan-100.html",
+      "notes": "Seeded from current Sportschau schedule table",
+      "include": "",
+      "calendar_title": "FIFA R32 - South Africa vs Canada - ARD"
+    },
+    {
+      "match_no": 76,
+      "date": "2026-06-29",
+      "time": "19:00",
+      "round": "Round of 32",
+      "group": "",
+      "team_a": "Brazil",
+      "team_b": "Japan",
+      "stream": "ZDF",
+      "source_url": "https://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spielplan-100.html",
+      "notes": "Seeded from current Sportschau schedule table",
+      "include": "",
+      "calendar_title": "FIFA R32 - Brazil vs Japan - ZDF"
+    },
+    {
+      "match_no": 74,
+      "date": "2026-06-29",
+      "time": "22:30",
+      "round": "Round of 32",
+      "group": "",
+      "team_a": "Germany",
+      "team_b": "Paraguay",
+      "stream": "ZDF",
+      "source_url": "https://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spielplan-100.html",
+      "notes": "Seeded from current Sportschau schedule table",
+      "include": "",
+      "calendar_title": "FIFA R32 - Germany vs Paraguay - ZDF"
+    },
+    {
+      "match_no": 78,
+      "date": "2026-06-30",
+      "time": "19:00",
+      "round": "Round of 32",
+      "group": "",
+      "team_a": "Ivory Coast",
+      "team_b": "Norway",
+      "stream": "ARD",
+      "source_url": "https://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spielplan-100.html",
+      "notes": "Seeded from current Sportschau schedule table",
+      "include": "",
+      "calendar_title": "FIFA R32 - Ivory Coast vs Norway - ARD"
+    },
+    {
+      "match_no": 77,
+      "date": "2026-06-30",
+      "time": "23:00",
+      "round": "Round of 32",
+      "group": "",
+      "team_a": "France",
+      "team_b": "Sweden",
+      "stream": "ZDF/Magenta TBC",
+      "source_url": "https://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spielplan-100.html",
+      "notes": "Seeded from current Sportschau schedule table",
+      "include": "",
+      "calendar_title": "FIFA R32 - France vs Sweden - TBD"
+    },
+    {
+      "match_no": 79,
+      "date": "2026-07-01",
+      "time": "03:00",
+      "round": "Round of 32",
+      "group": "",
+      "team_a": "Mexico",
+      "team_b": "Ecuador",
+      "stream": "ZDF/Magenta TBC",
+      "source_url": "https://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spielplan-100.html",
+      "notes": "Seeded from current Sportschau schedule table",
+      "include": "",
+      "calendar_title": "FIFA R32 - Mexico vs Ecuador - TBD"
+    },
+    {
+      "match_no": 80,
+      "date": "2026-07-01",
+      "time": "18:00",
+      "round": "Round of 32",
+      "group": "",
+      "team_a": "England",
+      "team_b": "DR Congo",
+      "stream": "ARD",
+      "source_url": "https://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spielplan-100.html",
+      "notes": "Seeded from current Sportschau schedule table",
+      "include": "",
+      "calendar_title": "FIFA R32 - England vs DR Congo - ARD"
+    },
+    {
+      "match_no": 82,
+      "date": "2026-07-01",
+      "time": "22:00",
+      "round": "Round of 32",
+      "group": "",
+      "team_a": "Belgium",
+      "team_b": "Senegal",
+      "stream": "ARD",
+      "source_url": "https://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spielplan-100.html",
+      "notes": "Seeded from current Sportschau schedule table",
+      "include": "",
+      "calendar_title": "FIFA R32 - Belgium vs Senegal - ARD"
+    },
+    {
+      "match_no": 84,
+      "date": "2026-07-02",
+      "time": "21:00",
+      "round": "Round of 32",
+      "group": "",
+      "team_a": "Spain",
+      "team_b": "Austria",
+      "stream": "ARD",
+      "source_url": "https://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spielplan-100.html",
+      "notes": "Seeded from current Sportschau schedule table",
+      "include": "",
+      "calendar_title": "FIFA R32 - Spain vs Austria - ARD"
+    },
+    {
+      "match_no": 83,
+      "date": "2026-07-03",
+      "time": "01:00",
+      "round": "Round of 32",
+      "group": "",
+      "team_a": "Portugal",
+      "team_b": "Croatia",
+      "stream": "ZDF/Magenta TBC",
+      "source_url": "https://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spielplan-100.html",
+      "notes": "Seeded from current Sportschau schedule table",
+      "include": "",
+      "calendar_title": "FIFA R32 - Portugal vs Croatia - TBD"
+    },
+    {
+      "match_no": 85,
+      "date": "2026-07-03",
+      "time": "05:00",
+      "round": "Round of 32",
+      "group": "",
+      "team_a": "Switzerland",
+      "team_b": "Algeria",
+      "stream": "ZDF",
+      "source_url": "https://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spielplan-100.html",
+      "notes": "Seeded from current Sportschau schedule table",
+      "include": "",
+      "calendar_title": "FIFA R32 - Switzerland vs Algeria - ZDF"
+    },
+    {
+      "match_no": 88,
+      "date": "2026-07-03",
+      "time": "20:00",
+      "round": "Round of 32",
+      "group": "",
+      "team_a": "Australia",
+      "team_b": "Egypt",
+      "stream": "ZDF",
+      "source_url": "https://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spielplan-100.html",
+      "notes": "Seeded from current Sportschau schedule table",
+      "include": "",
+      "calendar_title": "FIFA R32 - Australia vs Egypt - ZDF"
+    },
+    {
+      "match_no": 86,
+      "date": "2026-07-04",
+      "time": "00:00",
+      "round": "Round of 32",
+      "group": "",
+      "team_a": "Argentina",
+      "team_b": "Cape Verde",
+      "stream": "ZDF/Magenta TBC",
+      "source_url": "https://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spielplan-100.html",
+      "notes": "Seeded from current Sportschau schedule table",
+      "include": "",
+      "calendar_title": "FIFA R32 - Argentina vs Cape Verde - TBD"
+    },
+    {
+      "match_no": 87,
+      "date": "2026-07-04",
+      "time": "03:30",
+      "round": "Round of 32",
+      "group": "",
+      "team_a": "Colombia",
+      "team_b": "Ghana",
+      "stream": "ZDF/Magenta TBC",
+      "source_url": "https://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spielplan-100.html",
+      "notes": "Seeded from current Sportschau schedule table",
+      "include": "",
+      "calendar_title": "FIFA R32 - Colombia vs Ghana - TBD"
+    },
+    {
+      "match_no": 90,
+      "date": "2026-07-04",
+      "time": "19:00",
+      "round": "Round of 16",
+      "group": "",
+      "team_a": "Winner Match 73",
+      "team_b": "Winner Match 75",
+      "stream": "TBC",
+      "source_url": "https://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spielplan-100.html",
+      "notes": "Seeded from current Sportschau schedule table",
+      "include": "",
+      "calendar_title": "FIFA R16 - TBD vs TBD - TBD"
+    },
+    {
+      "match_no": 89,
+      "date": "2026-07-04",
+      "time": "23:00",
+      "round": "Round of 16",
+      "group": "",
+      "team_a": "Winner Match 74",
+      "team_b": "Winner Match 77",
+      "stream": "TBC",
+      "source_url": "https://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spielplan-100.html",
+      "notes": "Seeded from current Sportschau schedule table",
+      "include": "",
+      "calendar_title": "FIFA R16 - TBD vs TBD - TBD"
+    },
+    {
+      "match_no": 91,
+      "date": "2026-07-05",
+      "time": "22:00",
+      "round": "Round of 16",
+      "group": "",
+      "team_a": "Winner Match 76",
+      "team_b": "Winner Match 78",
+      "stream": "TBC",
+      "source_url": "https://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spielplan-100.html",
+      "notes": "Seeded from current Sportschau schedule table",
+      "include": "",
+      "calendar_title": "FIFA R16 - TBD vs TBD - TBD"
+    },
+    {
+      "match_no": 92,
+      "date": "2026-07-06",
+      "time": "02:00",
+      "round": "Round of 16",
+      "group": "",
+      "team_a": "Winner Match 79",
+      "team_b": "Winner Match 80",
+      "stream": "TBC",
+      "source_url": "https://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spielplan-100.html",
+      "notes": "Seeded from current Sportschau schedule table",
+      "include": "",
+      "calendar_title": "FIFA R16 - TBD vs TBD - TBD"
+    },
+    {
+      "match_no": 93,
+      "date": "2026-07-06",
+      "time": "21:00",
+      "round": "Round of 16",
+      "group": "",
+      "team_a": "Winner Match 83",
+      "team_b": "Winner Match 84",
+      "stream": "TBC",
+      "source_url": "https://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spielplan-100.html",
+      "notes": "Seeded from current Sportschau schedule table",
+      "include": "",
+      "calendar_title": "FIFA R16 - TBD vs TBD - TBD"
+    },
+    {
+      "match_no": 94,
+      "date": "2026-07-07",
+      "time": "02:00",
+      "round": "Round of 16",
+      "group": "",
+      "team_a": "Winner Match 81",
+      "team_b": "Winner Match 82",
+      "stream": "TBC",
+      "source_url": "https://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spielplan-100.html",
+      "notes": "Seeded from current Sportschau schedule table",
+      "include": "",
+      "calendar_title": "FIFA R16 - TBD vs TBD - TBD"
+    },
+    {
+      "match_no": 95,
+      "date": "2026-07-07",
+      "time": "18:00",
+      "round": "Round of 16",
+      "group": "",
+      "team_a": "Winner Match 86",
+      "team_b": "Winner Match 88",
+      "stream": "TBC",
+      "source_url": "https://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spielplan-100.html",
+      "notes": "Seeded from current Sportschau schedule table",
+      "include": "",
+      "calendar_title": "FIFA R16 - TBD vs TBD - TBD"
+    },
+    {
+      "match_no": 96,
+      "date": "2026-07-07",
+      "time": "22:00",
+      "round": "Round of 16",
+      "group": "",
+      "team_a": "Winner Match 85",
+      "team_b": "Winner Match 87",
+      "stream": "TBC",
+      "source_url": "https://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spielplan-100.html",
+      "notes": "Seeded from current Sportschau schedule table",
+      "include": "",
+      "calendar_title": "FIFA R16 - TBD vs TBD - TBD"
+    },
+    {
+      "match_no": 97,
+      "date": "2026-07-09",
+      "time": "22:00",
+      "round": "Quarter-final",
+      "group": "",
+      "team_a": "Winner Match 89",
+      "team_b": "Winner Match 90",
+      "stream": "TBC",
+      "source_url": "https://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spielplan-100.html",
+      "notes": "Seeded from current Sportschau schedule table",
+      "include": "",
+      "calendar_title": "FIFA QF - TBD vs TBD - TBD"
+    },
+    {
+      "match_no": 98,
+      "date": "2026-07-10",
+      "time": "21:00",
+      "round": "Quarter-final",
+      "group": "",
+      "team_a": "Winner Match 93",
+      "team_b": "Winner Match 94",
+      "stream": "TBC",
+      "source_url": "https://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spielplan-100.html",
+      "notes": "Seeded from current Sportschau schedule table",
+      "include": "",
+      "calendar_title": "FIFA QF - TBD vs TBD - TBD"
+    },
+    {
+      "match_no": 99,
+      "date": "2026-07-11",
+      "time": "23:00",
+      "round": "Quarter-final",
+      "group": "",
+      "team_a": "Winner Match 91",
+      "team_b": "Winner Match 92",
+      "stream": "TBC",
+      "source_url": "https://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spielplan-100.html",
+      "notes": "Seeded from current Sportschau schedule table",
+      "include": "",
+      "calendar_title": "FIFA QF - TBD vs TBD - TBD"
+    },
+    {
+      "match_no": 100,
+      "date": "2026-07-12",
+      "time": "03:00",
+      "round": "Quarter-final",
+      "group": "",
+      "team_a": "Winner Match 95",
+      "team_b": "Winner Match 96",
+      "stream": "TBC",
+      "source_url": "https://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spielplan-100.html",
+      "notes": "Seeded from current Sportschau schedule table",
+      "include": "",
+      "calendar_title": "FIFA QF - TBD vs TBD - TBD"
+    },
+    {
+      "match_no": 101,
+      "date": "2026-07-14",
+      "time": "21:00",
+      "round": "Semi-final",
+      "group": "",
+      "team_a": "Winner Match 97",
+      "team_b": "Winner Match 98",
+      "stream": "TBC",
+      "source_url": "https://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spielplan-100.html",
+      "notes": "Seeded from current Sportschau schedule table",
+      "include": "",
+      "calendar_title": "FIFA SF - TBD vs TBD - TBD"
+    },
+    {
+      "match_no": 102,
+      "date": "2026-07-15",
+      "time": "21:00",
+      "round": "Semi-final",
+      "group": "",
+      "team_a": "Winner Match 99",
+      "team_b": "Winner Match 100",
+      "stream": "TBC",
+      "source_url": "https://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spielplan-100.html",
+      "notes": "Seeded from current Sportschau schedule table",
+      "include": "",
+      "calendar_title": "FIFA SF - TBD vs TBD - TBD"
+    },
+    {
+      "match_no": 103,
+      "date": "2026-07-18",
+      "time": "23:00",
+      "round": "Third-place match",
+      "group": "",
+      "team_a": "Loser Match 101",
+      "team_b": "Loser Match 102",
+      "stream": "TBC",
+      "source_url": "https://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spielplan-100.html",
+      "notes": "Seeded from current Sportschau schedule table",
+      "include": "",
+      "calendar_title": "FIFA 3rd Place - TBD vs TBD - TBD"
+    },
+    {
+      "match_no": 104,
+      "date": "2026-07-19",
+      "time": "21:00",
+      "round": "Final",
+      "group": "",
+      "team_a": "Winner Match 101",
+      "team_b": "Winner Match 102",
+      "stream": "ZDF",
+      "source_url": "https://www.sportschau.de/fussball/fifa-wm-2026/der-spielplan-der-fussball-wm-2026%2Cfifawm-spielplan-100.html",
+      "notes": "Seeded from current Sportschau schedule table",
+      "include": "",
+      "calendar_title": "FIFA Finals - TBD vs TBD - ZDF"
+    }
+  ],
+  "audit": [
+    {
+      "match_no": 1,
+      "date": "2026-06-11",
+      "time": "21:00",
+      "calendar_title": "FIFA Group - Mexico vs South Africa - ZDF",
+      "raw_stream": "ZDF",
+      "raw_fixture": "Mexico vs South Africa",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 2,
+      "date": "2026-06-12",
+      "time": "04:00",
+      "calendar_title": "FIFA Group - South Korea vs Czechia - TBD",
+      "raw_stream": "MagentaTV only",
+      "raw_fixture": "South Korea vs Czechia",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 3,
+      "date": "2026-06-12",
+      "time": "21:00",
+      "calendar_title": "FIFA Group - Canada vs Bosnia and Herzegovina - ARD",
+      "raw_stream": "ARD",
+      "raw_fixture": "Canada vs Bosnia and Herzegovina",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 4,
+      "date": "2026-06-13",
+      "time": "03:00",
+      "calendar_title": "FIFA Group - USA vs Paraguay - TBD",
+      "raw_stream": "MagentaTV only",
+      "raw_fixture": "USA vs Paraguay",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 5,
+      "date": "2026-06-13",
+      "time": "21:00",
+      "calendar_title": "FIFA Group - Qatar vs Switzerland - ZDF",
+      "raw_stream": "ZDF",
+      "raw_fixture": "Qatar vs Switzerland",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 6,
+      "date": "2026-06-14",
+      "time": "00:00",
+      "calendar_title": "FIFA Group - Brazil vs Morocco - ZDF",
+      "raw_stream": "ZDF",
+      "raw_fixture": "Brazil vs Morocco",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 7,
+      "date": "2026-06-14",
+      "time": "03:00",
+      "calendar_title": "FIFA Group - Haiti vs Scotland - ARD",
+      "raw_stream": "ARD",
+      "raw_fixture": "Haiti vs Scotland",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 8,
+      "date": "2026-06-14",
+      "time": "06:00",
+      "calendar_title": "FIFA Group - Australia vs Türkiye - TBD",
+      "raw_stream": "MagentaTV only",
+      "raw_fixture": "Australia vs Türkiye",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 9,
+      "date": "2026-06-14",
+      "time": "19:00",
+      "calendar_title": "FIFA Group - Germany vs Curaçao - ARD",
+      "raw_stream": "ARD",
+      "raw_fixture": "Germany vs Curaçao",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 10,
+      "date": "2026-06-14",
+      "time": "22:00",
+      "calendar_title": "FIFA Group - Netherlands vs Japan - TBD",
+      "raw_stream": "MagentaTV only",
+      "raw_fixture": "Netherlands vs Japan",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 11,
+      "date": "2026-06-15",
+      "time": "01:00",
+      "calendar_title": "FIFA Group - Ivory Coast vs Ecuador - ARD",
+      "raw_stream": "ARD",
+      "raw_fixture": "Ivory Coast vs Ecuador",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 12,
+      "date": "2026-06-15",
+      "time": "04:00",
+      "calendar_title": "FIFA Group - Sweden vs Tunisia - TBD",
+      "raw_stream": "MagentaTV only",
+      "raw_fixture": "Sweden vs Tunisia",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 13,
+      "date": "2026-06-15",
+      "time": "18:00",
+      "calendar_title": "FIFA Group - Spain vs Cape Verde - ARD",
+      "raw_stream": "ARD",
+      "raw_fixture": "Spain vs Cape Verde",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 14,
+      "date": "2026-06-15",
+      "time": "21:00",
+      "calendar_title": "FIFA Group - Belgium vs Egypt - ARD",
+      "raw_stream": "ARD",
+      "raw_fixture": "Belgium vs Egypt",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 15,
+      "date": "2026-06-16",
+      "time": "00:00",
+      "calendar_title": "FIFA Group - Saudi Arabia vs Uruguay - ZDF",
+      "raw_stream": "ZDF",
+      "raw_fixture": "Saudi Arabia vs Uruguay",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 16,
+      "date": "2026-06-16",
+      "time": "03:00",
+      "calendar_title": "FIFA Group - Iran vs New Zealand - ZDF",
+      "raw_stream": "ZDF",
+      "raw_fixture": "Iran vs New Zealand",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 17,
+      "date": "2026-06-16",
+      "time": "21:00",
+      "calendar_title": "FIFA Group - France vs Senegal - TBD",
+      "raw_stream": "MagentaTV only",
+      "raw_fixture": "France vs Senegal",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 18,
+      "date": "2026-06-17",
+      "time": "00:00",
+      "calendar_title": "FIFA Group - Iraq vs Norway - TBD",
+      "raw_stream": "MagentaTV only",
+      "raw_fixture": "Iraq vs Norway",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 19,
+      "date": "2026-06-17",
+      "time": "03:00",
+      "calendar_title": "FIFA Group - Argentina vs Algeria - ARD",
+      "raw_stream": "ARD",
+      "raw_fixture": "Argentina vs Algeria",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 20,
+      "date": "2026-06-17",
+      "time": "06:00",
+      "calendar_title": "FIFA Group - Austria vs Jordan - ZDF",
+      "raw_stream": "ZDF",
+      "raw_fixture": "Austria vs Jordan",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 21,
+      "date": "2026-06-17",
+      "time": "19:00",
+      "calendar_title": "FIFA Group - Portugal vs DR Congo - ZDF",
+      "raw_stream": "ZDF",
+      "raw_fixture": "Portugal vs DR Congo",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 22,
+      "date": "2026-06-17",
+      "time": "22:00",
+      "calendar_title": "FIFA Group - England vs Croatia - ZDF",
+      "raw_stream": "ZDF",
+      "raw_fixture": "England vs Croatia",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 23,
+      "date": "2026-06-18",
+      "time": "01:00",
+      "calendar_title": "FIFA Group - Ghana vs Panama - TBD",
+      "raw_stream": "MagentaTV only",
+      "raw_fixture": "Ghana vs Panama",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 24,
+      "date": "2026-06-18",
+      "time": "04:00",
+      "calendar_title": "FIFA Group - Uzbekistan vs Colombia - TBD",
+      "raw_stream": "MagentaTV only",
+      "raw_fixture": "Uzbekistan vs Colombia",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 25,
+      "date": "2026-06-18",
+      "time": "18:00",
+      "calendar_title": "FIFA Group - Czechia vs South Africa - ZDF",
+      "raw_stream": "ZDF",
+      "raw_fixture": "Czechia vs South Africa",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 26,
+      "date": "2026-06-18",
+      "time": "21:00",
+      "calendar_title": "FIFA Group - Switzerland vs Bosnia and Herzegovina - TBD",
+      "raw_stream": "MagentaTV only",
+      "raw_fixture": "Switzerland vs Bosnia and Herzegovina",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 27,
+      "date": "2026-06-19",
+      "time": "00:00",
+      "calendar_title": "FIFA Group - Canada vs Qatar - ZDF",
+      "raw_stream": "ZDF",
+      "raw_fixture": "Canada vs Qatar",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 28,
+      "date": "2026-06-19",
+      "time": "03:00",
+      "calendar_title": "FIFA Group - Mexico vs South Korea - TBD",
+      "raw_stream": "MagentaTV only",
+      "raw_fixture": "Mexico vs South Korea",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 29,
+      "date": "2026-06-19",
+      "time": "21:00",
+      "calendar_title": "FIFA Group - USA vs Australia - ARD",
+      "raw_stream": "ARD",
+      "raw_fixture": "USA vs Australia",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 30,
+      "date": "2026-06-20",
+      "time": "00:00",
+      "calendar_title": "FIFA Group - Scotland vs Morocco - TBD",
+      "raw_stream": "MagentaTV only",
+      "raw_fixture": "Scotland vs Morocco",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 31,
+      "date": "2026-06-20",
+      "time": "03:00",
+      "calendar_title": "FIFA Group - Brazil vs Haiti - ARD",
+      "raw_stream": "ARD",
+      "raw_fixture": "Brazil vs Haiti",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 32,
+      "date": "2026-06-20",
+      "time": "05:00",
+      "calendar_title": "FIFA Group - Türkiye vs Paraguay - TBD",
+      "raw_stream": "MagentaTV only",
+      "raw_fixture": "Türkiye vs Paraguay",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 33,
+      "date": "2026-06-20",
+      "time": "19:00",
+      "calendar_title": "FIFA Group - Netherlands vs Sweden - ZDF",
+      "raw_stream": "ZDF",
+      "raw_fixture": "Netherlands vs Sweden",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 34,
+      "date": "2026-06-20",
+      "time": "22:00",
+      "calendar_title": "FIFA Group - Germany vs Ivory Coast - ZDF",
+      "raw_stream": "ZDF",
+      "raw_fixture": "Germany vs Ivory Coast",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 35,
+      "date": "2026-06-21",
+      "time": "02:00",
+      "calendar_title": "FIFA Group - Ecuador vs Curaçao - ZDF",
+      "raw_stream": "ZDF",
+      "raw_fixture": "Ecuador vs Curaçao",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 36,
+      "date": "2026-06-21",
+      "time": "06:00",
+      "calendar_title": "FIFA Group - Tunisia vs Japan - TBD",
+      "raw_stream": "MagentaTV only",
+      "raw_fixture": "Tunisia vs Japan",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 37,
+      "date": "2026-06-21",
+      "time": "18:00",
+      "calendar_title": "FIFA Group - Spain vs Saudi Arabia - TBD",
+      "raw_stream": "MagentaTV only",
+      "raw_fixture": "Spain vs Saudi Arabia",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 38,
+      "date": "2026-06-21",
+      "time": "21:00",
+      "calendar_title": "FIFA Group - Belgium vs Iran - ZDF",
+      "raw_stream": "ZDF",
+      "raw_fixture": "Belgium vs Iran",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 39,
+      "date": "2026-06-22",
+      "time": "00:00",
+      "calendar_title": "FIFA Group - Uruguay vs Cape Verde - ARD",
+      "raw_stream": "ARD",
+      "raw_fixture": "Uruguay vs Cape Verde",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 40,
+      "date": "2026-06-22",
+      "time": "03:00",
+      "calendar_title": "FIFA Group - New Zealand vs Egypt - TBD",
+      "raw_stream": "MagentaTV only",
+      "raw_fixture": "New Zealand vs Egypt",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 41,
+      "date": "2026-06-22",
+      "time": "19:00",
+      "calendar_title": "FIFA Group - Argentina vs Austria - ARD",
+      "raw_stream": "ARD",
+      "raw_fixture": "Argentina vs Austria",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 42,
+      "date": "2026-06-22",
+      "time": "23:00",
+      "calendar_title": "FIFA Group - France vs Iraq - ARD",
+      "raw_stream": "ARD",
+      "raw_fixture": "France vs Iraq",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 43,
+      "date": "2026-06-23",
+      "time": "02:00",
+      "calendar_title": "FIFA Group - Norway vs Senegal - TBD",
+      "raw_stream": "MagentaTV only",
+      "raw_fixture": "Norway vs Senegal",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 44,
+      "date": "2026-06-23",
+      "time": "05:00",
+      "calendar_title": "FIFA Group - Jordan vs Algeria - ZDF",
+      "raw_stream": "ZDF",
+      "raw_fixture": "Jordan vs Algeria",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 45,
+      "date": "2026-06-23",
+      "time": "19:00",
+      "calendar_title": "FIFA Group - Portugal vs Uzbekistan - ARD",
+      "raw_stream": "ARD",
+      "raw_fixture": "Portugal vs Uzbekistan",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 46,
+      "date": "2026-06-23",
+      "time": "22:00",
+      "calendar_title": "FIFA Group - England vs Ghana - ARD",
+      "raw_stream": "ARD",
+      "raw_fixture": "England vs Ghana",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 47,
+      "date": "2026-06-24",
+      "time": "01:00",
+      "calendar_title": "FIFA Group - Panama vs Croatia - TBD",
+      "raw_stream": "MagentaTV only",
+      "raw_fixture": "Panama vs Croatia",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 48,
+      "date": "2026-06-24",
+      "time": "04:00",
+      "calendar_title": "FIFA Group - Colombia vs DR Congo - ARD",
+      "raw_stream": "ARD",
+      "raw_fixture": "Colombia vs DR Congo",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 49,
+      "date": "2026-06-24",
+      "time": "21:00",
+      "calendar_title": "FIFA Group - Switzerland vs Canada - ARD",
+      "raw_stream": "ARD",
+      "raw_fixture": "Switzerland vs Canada",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 50,
+      "date": "2026-06-24",
+      "time": "21:00",
+      "calendar_title": "FIFA Group - Bosnia and Herzegovina vs Qatar - TBD",
+      "raw_stream": "MagentaTV only",
+      "raw_fixture": "Bosnia and Herzegovina vs Qatar",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 51,
+      "date": "2026-06-25",
+      "time": "00:00",
+      "calendar_title": "FIFA Group - Scotland vs Brazil - TBD",
+      "raw_stream": "MagentaTV only",
+      "raw_fixture": "Scotland vs Brazil",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 52,
+      "date": "2026-06-25",
+      "time": "00:00",
+      "calendar_title": "FIFA Group - Morocco vs Haiti - ZDF",
+      "raw_stream": "ZDF",
+      "raw_fixture": "Morocco vs Haiti",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 53,
+      "date": "2026-06-25",
+      "time": "03:00",
+      "calendar_title": "FIFA Group - Czechia vs Mexico - TBD",
+      "raw_stream": "MagentaTV only",
+      "raw_fixture": "Czechia vs Mexico",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 54,
+      "date": "2026-06-25",
+      "time": "03:00",
+      "calendar_title": "FIFA Group - South Africa vs South Korea - TBD",
+      "raw_stream": "MagentaTV only",
+      "raw_fixture": "South Africa vs South Korea",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 55,
+      "date": "2026-06-25",
+      "time": "22:00",
+      "calendar_title": "FIFA Group - Curaçao vs Ivory Coast - TBD",
+      "raw_stream": "MagentaTV only",
+      "raw_fixture": "Curaçao vs Ivory Coast",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 56,
+      "date": "2026-06-25",
+      "time": "22:00",
+      "calendar_title": "FIFA Group - Ecuador vs Germany - ARD",
+      "raw_stream": "ARD",
+      "raw_fixture": "Ecuador vs Germany",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 57,
+      "date": "2026-06-26",
+      "time": "01:00",
+      "calendar_title": "FIFA Group - Japan vs Sweden - TBD",
+      "raw_stream": "MagentaTV only",
+      "raw_fixture": "Japan vs Sweden",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 58,
+      "date": "2026-06-26",
+      "time": "01:00",
+      "calendar_title": "FIFA Group - Tunisia vs Netherlands - ARD",
+      "raw_stream": "ARD",
+      "raw_fixture": "Tunisia vs Netherlands",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 59,
+      "date": "2026-06-26",
+      "time": "04:00",
+      "calendar_title": "FIFA Group - Türkiye vs USA - TBD",
+      "raw_stream": "MagentaTV only",
+      "raw_fixture": "Türkiye vs USA",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 60,
+      "date": "2026-06-26",
+      "time": "04:00",
+      "calendar_title": "FIFA Group - Paraguay vs Australia - ARD",
+      "raw_stream": "ARD",
+      "raw_fixture": "Paraguay vs Australia",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 61,
+      "date": "2026-06-26",
+      "time": "21:00",
+      "calendar_title": "FIFA Group - Norway vs France - ZDF",
+      "raw_stream": "ZDF",
+      "raw_fixture": "Norway vs France",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 62,
+      "date": "2026-06-26",
+      "time": "21:00",
+      "calendar_title": "FIFA Group - Senegal vs Iraq - TBD",
+      "raw_stream": "MagentaTV only",
+      "raw_fixture": "Senegal vs Iraq",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 63,
+      "date": "2026-06-27",
+      "time": "02:00",
+      "calendar_title": "FIFA Group - Cape Verde vs Saudi Arabia - ARD",
+      "raw_stream": "ARD",
+      "raw_fixture": "Cape Verde vs Saudi Arabia",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 64,
+      "date": "2026-06-27",
+      "time": "02:00",
+      "calendar_title": "FIFA Group - Uruguay vs Spain - TBD",
+      "raw_stream": "MagentaTV only",
+      "raw_fixture": "Uruguay vs Spain",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 65,
+      "date": "2026-06-27",
+      "time": "05:00",
+      "calendar_title": "FIFA Group - Egypt vs Iran - TBD",
+      "raw_stream": "MagentaTV only",
+      "raw_fixture": "Egypt vs Iran",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 66,
+      "date": "2026-06-27",
+      "time": "05:00",
+      "calendar_title": "FIFA Group - New Zealand vs Belgium - TBD",
+      "raw_stream": "MagentaTV only",
+      "raw_fixture": "New Zealand vs Belgium",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 67,
+      "date": "2026-06-27",
+      "time": "23:00",
+      "calendar_title": "FIFA Group - Panama vs England - TBD",
+      "raw_stream": "MagentaTV only",
+      "raw_fixture": "Panama vs England",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 68,
+      "date": "2026-06-27",
+      "time": "23:00",
+      "calendar_title": "FIFA Group - Croatia vs Ghana - ZDF",
+      "raw_stream": "ZDF",
+      "raw_fixture": "Croatia vs Ghana",
+      "decision": "excluded before start date 2026-06-28"
+    },
+    {
+      "match_no": 69,
+      "date": "2026-06-28",
+      "time": "01:30",
+      "calendar_title": "FIFA Group - Colombia vs Portugal - ZDF",
+      "raw_stream": "ZDF",
+      "raw_fixture": "Colombia vs Portugal",
+      "decision": "included confirmed ARD/ZDF"
+    },
+    {
+      "match_no": 70,
+      "date": "2026-06-28",
+      "time": "01:30",
+      "calendar_title": "FIFA Group - DR Congo vs Uzbekistan - TBD",
+      "raw_stream": "MagentaTV only",
+      "raw_fixture": "DR Congo vs Uzbekistan",
+      "decision": "excluded confirmed MagentaTV-only"
+    },
+    {
+      "match_no": 71,
+      "date": "2026-06-28",
+      "time": "04:00",
+      "calendar_title": "FIFA Group - Algeria vs Austria - ZDF",
+      "raw_stream": "ZDF",
+      "raw_fixture": "Algeria vs Austria",
+      "decision": "included confirmed ARD/ZDF"
+    },
+    {
+      "match_no": 72,
+      "date": "2026-06-28",
+      "time": "04:00",
+      "calendar_title": "FIFA Group - Jordan vs Argentina - TBD",
+      "raw_stream": "MagentaTV only",
+      "raw_fixture": "Jordan vs Argentina",
+      "decision": "excluded confirmed MagentaTV-only"
+    },
+    {
+      "match_no": 73,
+      "date": "2026-06-28",
+      "time": "21:00",
+      "calendar_title": "FIFA R32 - South Africa vs Canada - ARD",
+      "raw_stream": "ARD",
+      "raw_fixture": "South Africa vs Canada",
+      "decision": "included confirmed ARD/ZDF"
+    },
+    {
+      "match_no": 74,
+      "date": "2026-06-29",
+      "time": "22:30",
+      "calendar_title": "FIFA R32 - Germany vs Paraguay - ZDF",
+      "raw_stream": "ZDF",
+      "raw_fixture": "Germany vs Paraguay",
+      "decision": "included confirmed ARD/ZDF"
+    },
+    {
+      "match_no": 75,
+      "date": "2026-06-30",
+      "time": "03:00",
+      "calendar_title": "FIFA R32 - Netherlands vs Morocco - TBD",
+      "raw_stream": "MagentaTV only",
+      "raw_fixture": "Netherlands vs Morocco",
+      "decision": "excluded confirmed MagentaTV-only"
+    },
+    {
+      "match_no": 76,
+      "date": "2026-06-29",
+      "time": "19:00",
+      "calendar_title": "FIFA R32 - Brazil vs Japan - ZDF",
+      "raw_stream": "ZDF",
+      "raw_fixture": "Brazil vs Japan",
+      "decision": "included confirmed ARD/ZDF"
+    },
+    {
+      "match_no": 77,
+      "date": "2026-06-30",
+      "time": "23:00",
+      "calendar_title": "FIFA R32 - France vs Sweden - TBD",
+      "raw_stream": "ZDF/Magenta TBC",
+      "raw_fixture": "France vs Sweden",
+      "decision": "included as TBD broadcaster candidate"
+    },
+    {
+      "match_no": 78,
+      "date": "2026-06-30",
+      "time": "19:00",
+      "calendar_title": "FIFA R32 - Ivory Coast vs Norway - ARD",
+      "raw_stream": "ARD",
+      "raw_fixture": "Ivory Coast vs Norway",
+      "decision": "included confirmed ARD/ZDF"
+    },
+    {
+      "match_no": 79,
+      "date": "2026-07-01",
+      "time": "03:00",
+      "calendar_title": "FIFA R32 - Mexico vs Ecuador - TBD",
+      "raw_stream": "ZDF/Magenta TBC",
+      "raw_fixture": "Mexico vs Ecuador",
+      "decision": "included as TBD broadcaster candidate"
+    },
+    {
+      "match_no": 80,
+      "date": "2026-07-01",
+      "time": "18:00",
+      "calendar_title": "FIFA R32 - England vs DR Congo - ARD",
+      "raw_stream": "ARD",
+      "raw_fixture": "England vs DR Congo",
+      "decision": "included confirmed ARD/ZDF"
+    },
+    {
+      "match_no": 81,
+      "date": "2026-07-02",
+      "time": "02:00",
+      "calendar_title": "FIFA R32 - USA vs Bosnia-Herzegovina - TBD",
+      "raw_stream": "MagentaTV only",
+      "raw_fixture": "USA vs Bosnia-Herzegovina",
+      "decision": "excluded confirmed MagentaTV-only"
+    },
+    {
+      "match_no": 82,
+      "date": "2026-07-01",
+      "time": "22:00",
+      "calendar_title": "FIFA R32 - Belgium vs Senegal - ARD",
+      "raw_stream": "ARD",
+      "raw_fixture": "Belgium vs Senegal",
+      "decision": "included confirmed ARD/ZDF"
+    },
+    {
+      "match_no": 83,
+      "date": "2026-07-03",
+      "time": "01:00",
+      "calendar_title": "FIFA R32 - Portugal vs Croatia - TBD",
+      "raw_stream": "ZDF/Magenta TBC",
+      "raw_fixture": "Portugal vs Croatia",
+      "decision": "included as TBD broadcaster candidate"
+    },
+    {
+      "match_no": 84,
+      "date": "2026-07-02",
+      "time": "21:00",
+      "calendar_title": "FIFA R32 - Spain vs Austria - ARD",
+      "raw_stream": "ARD",
+      "raw_fixture": "Spain vs Austria",
+      "decision": "included confirmed ARD/ZDF"
+    },
+    {
+      "match_no": 85,
+      "date": "2026-07-03",
+      "time": "05:00",
+      "calendar_title": "FIFA R32 - Switzerland vs Algeria - ZDF",
+      "raw_stream": "ZDF",
+      "raw_fixture": "Switzerland vs Algeria",
+      "decision": "included confirmed ARD/ZDF"
+    },
+    {
+      "match_no": 86,
+      "date": "2026-07-04",
+      "time": "00:00",
+      "calendar_title": "FIFA R32 - Argentina vs Cape Verde - TBD",
+      "raw_stream": "ZDF/Magenta TBC",
+      "raw_fixture": "Argentina vs Cape Verde",
+      "decision": "included as TBD broadcaster candidate"
+    },
+    {
+      "match_no": 87,
+      "date": "2026-07-04",
+      "time": "03:30",
+      "calendar_title": "FIFA R32 - Colombia vs Ghana - TBD",
+      "raw_stream": "ZDF/Magenta TBC",
+      "raw_fixture": "Colombia vs Ghana",
+      "decision": "included as TBD broadcaster candidate"
+    },
+    {
+      "match_no": 88,
+      "date": "2026-07-03",
+      "time": "20:00",
+      "calendar_title": "FIFA R32 - Australia vs Egypt - ZDF",
+      "raw_stream": "ZDF",
+      "raw_fixture": "Australia vs Egypt",
+      "decision": "included confirmed ARD/ZDF"
+    },
+    {
+      "match_no": 89,
+      "date": "2026-07-04",
+      "time": "23:00",
+      "calendar_title": "FIFA R16 - TBD vs TBD - TBD",
+      "raw_stream": "TBC",
+      "raw_fixture": "Winner Match 74 vs Winner Match 77",
+      "decision": "included as TBD broadcaster candidate"
+    },
+    {
+      "match_no": 90,
+      "date": "2026-07-04",
+      "time": "19:00",
+      "calendar_title": "FIFA R16 - TBD vs TBD - TBD",
+      "raw_stream": "TBC",
+      "raw_fixture": "Winner Match 73 vs Winner Match 75",
+      "decision": "included as TBD broadcaster candidate"
+    },
+    {
+      "match_no": 91,
+      "date": "2026-07-05",
+      "time": "22:00",
+      "calendar_title": "FIFA R16 - TBD vs TBD - TBD",
+      "raw_stream": "TBC",
+      "raw_fixture": "Winner Match 76 vs Winner Match 78",
+      "decision": "included as TBD broadcaster candidate"
+    },
+    {
+      "match_no": 92,
+      "date": "2026-07-06",
+      "time": "02:00",
+      "calendar_title": "FIFA R16 - TBD vs TBD - TBD",
+      "raw_stream": "TBC",
+      "raw_fixture": "Winner Match 79 vs Winner Match 80",
+      "decision": "included as TBD broadcaster candidate"
+    },
+    {
+      "match_no": 93,
+      "date": "2026-07-06",
+      "time": "21:00",
+      "calendar_title": "FIFA R16 - TBD vs TBD - TBD",
+      "raw_stream": "TBC",
+      "raw_fixture": "Winner Match 83 vs Winner Match 84",
+      "decision": "included as TBD broadcaster candidate"
+    },
+    {
+      "match_no": 94,
+      "date": "2026-07-07",
+      "time": "02:00",
+      "calendar_title": "FIFA R16 - TBD vs TBD - TBD",
+      "raw_stream": "TBC",
+      "raw_fixture": "Winner Match 81 vs Winner Match 82",
+      "decision": "included as TBD broadcaster candidate"
+    },
+    {
+      "match_no": 95,
+      "date": "2026-07-07",
+      "time": "18:00",
+      "calendar_title": "FIFA R16 - TBD vs TBD - TBD",
+      "raw_stream": "TBC",
+      "raw_fixture": "Winner Match 86 vs Winner Match 88",
+      "decision": "included as TBD broadcaster candidate"
+    },
+    {
+      "match_no": 96,
+      "date": "2026-07-07",
+      "time": "22:00",
+      "calendar_title": "FIFA R16 - TBD vs TBD - TBD",
+      "raw_stream": "TBC",
+      "raw_fixture": "Winner Match 85 vs Winner Match 87",
+      "decision": "included as TBD broadcaster candidate"
+    },
+    {
+      "match_no": 97,
+      "date": "2026-07-09",
+      "time": "22:00",
+      "calendar_title": "FIFA QF - TBD vs TBD - TBD",
+      "raw_stream": "TBC",
+      "raw_fixture": "Winner Match 89 vs Winner Match 90",
+      "decision": "included as TBD broadcaster candidate"
+    },
+    {
+      "match_no": 98,
+      "date": "2026-07-10",
+      "time": "21:00",
+      "calendar_title": "FIFA QF - TBD vs TBD - TBD",
+      "raw_stream": "TBC",
+      "raw_fixture": "Winner Match 93 vs Winner Match 94",
+      "decision": "included as TBD broadcaster candidate"
+    },
+    {
+      "match_no": 99,
+      "date": "2026-07-11",
+      "time": "23:00",
+      "calendar_title": "FIFA QF - TBD vs TBD - TBD",
+      "raw_stream": "TBC",
+      "raw_fixture": "Winner Match 91 vs Winner Match 92",
+      "decision": "included as TBD broadcaster candidate"
+    },
+    {
+      "match_no": 100,
+      "date": "2026-07-12",
+      "time": "03:00",
+      "calendar_title": "FIFA QF - TBD vs TBD - TBD",
+      "raw_stream": "TBC",
+      "raw_fixture": "Winner Match 95 vs Winner Match 96",
+      "decision": "included as TBD broadcaster candidate"
+    },
+    {
+      "match_no": 101,
+      "date": "2026-07-14",
+      "time": "21:00",
+      "calendar_title": "FIFA SF - TBD vs TBD - TBD",
+      "raw_stream": "TBC",
+      "raw_fixture": "Winner Match 97 vs Winner Match 98",
+      "decision": "included as TBD broadcaster candidate"
+    },
+    {
+      "match_no": 102,
+      "date": "2026-07-15",
+      "time": "21:00",
+      "calendar_title": "FIFA SF - TBD vs TBD - TBD",
+      "raw_stream": "TBC",
+      "raw_fixture": "Winner Match 99 vs Winner Match 100",
+      "decision": "included as TBD broadcaster candidate"
+    },
+    {
+      "match_no": 103,
+      "date": "2026-07-18",
+      "time": "23:00",
+      "calendar_title": "FIFA 3rd Place - TBD vs TBD - TBD",
+      "raw_stream": "TBC",
+      "raw_fixture": "Loser Match 101 vs Loser Match 102",
+      "decision": "included as TBD broadcaster candidate"
+    },
+    {
+      "match_no": 104,
+      "date": "2026-07-19",
+      "time": "21:00",
+      "calendar_title": "FIFA Finals - TBD vs TBD - ZDF",
+      "raw_stream": "ZDF",
+      "raw_fixture": "Winner Match 101 vs Winner Match 102",
+      "decision": "included confirmed ARD/ZDF"
+    }
+  ]
+}
